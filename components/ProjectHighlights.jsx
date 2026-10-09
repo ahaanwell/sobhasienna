@@ -115,7 +115,7 @@ export default function ProjectHighlights() {
   </h2>
 
   <p>
-    <strong>Sobha Sienna</strong> is a premium apartment project set to be built in <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur"><strong>Sarjapur</strong></ExtLink>, <ExtLink href="https://en.wikipedia.org/wiki/Bangalore"><strong>Bangalore</strong></ExtLink>. The Project will span about <strong>25 acres</strong> and include a mix of <IntLink href="/floor-plan"><strong>2-, 3-, and 4-BHK apartments</strong></IntLink>. Sobha Sienna is planned to have about <strong>1,400 units</strong> and will be a large residential development for families seeking spacious homes in one of Bangalore's famous employment and residential corridors.
+    <strong>Sobha Sienna</strong> is a premium apartment project set to be built in <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur"><strong>Sarjapur</strong></ExtLink>, <ExtLink href="https://en.wikipedia.org/wiki/Bangalore"><strong>Bangalore</strong></ExtLink>. The Project will span about <strong>25 acres</strong> and include a mix of <IntLink href="/floor-plan"><strong>2, 3, and 4 BHK apartments</strong></IntLink>. Sobha Sienna is planned to have about <strong>1,400 units</strong> and will be a large residential development for families seeking spacious homes in one of Bangalore's famous employment and residential corridors.
   </p>
 
   <p>
