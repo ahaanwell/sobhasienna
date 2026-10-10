@@ -3,9 +3,9 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import FloorPlanPage from "./FloorPlanPage";
 
 const PATH = "/floor-plan";
-const TITLE = "Sobha Sienna Floor Plan | 2, 3 & 4 BHK Layouts in Sarjapur";
+const TITLE = "Sobha Sienna Floor Plan | Sarjapur Bangalore | 2, 3 & 4 BHK Layouts";
 const DESCRIPTION =
-  "Sobha Sienna floor plan: 2, 3 & 4 BHK apartment layouts by Sobha Limited in Sarjapur, Bangalore. 25 acres, ~1,400 units, from ₹1.2 Cr*, possession Dec 2032.";
+  "Explore Sobha Sienna floor plans in Sarjapur, Bangalore, featuring 2, 3 & 4 BHK apartment layouts in a premium 25-acre project with approximately 1,400 homes.";
 
 export const metadata = buildMetadata({
   title: TITLE,

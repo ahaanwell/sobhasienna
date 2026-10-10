@@ -105,7 +105,7 @@ function BangalorePage() {
   </h2>
 
   <p className="mt-4 text-gray-800">
-    <ExtLink href="https://en.wikipedia.org/wiki/Sobha_Limited"><strong>Sobha Limited</strong></ExtLink> is a Bangalore-headquartered real estate developer known for its <strong>backward-integrated model</strong>, in which much of the design, construction and interiors work is handled in-house. Bangalore is the company's largest market, with residential projects across the east, south-east and north of the city.
+    <ExtLink href="https://en.wikipedia.org/wiki/Sobha_(company)"><strong>Sobha Limited</strong></ExtLink> is a Bangalore-headquartered real estate developer known for its <strong>backward-integrated model</strong>, in which much of the design, construction and interiors work is handled in-house. Bangalore is the company's largest market, with residential projects across the east, south-east and north of the city.
   </p>
 </div>
 <div>

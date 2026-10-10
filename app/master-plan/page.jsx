@@ -3,9 +3,9 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import MasterPlanPage from "./MasterPlanPage";
 
 const PATH = "/master-plan";
-const TITLE = "Sobha Sienna Master Plan | 25 Acres, 1,400 Units in Sarjapur";
+const TITLE = "Sobha Sienna Master Plan | Sarjapur Bangalore | 25-Acre Site Layout";
 const DESCRIPTION =
-  "Sobha Sienna master plan: 25-acre site layout by Sobha Limited in Sarjapur, Bangalore with ~1,400 2, 3 & 4 BHK apartments from ₹1.2 Cr*, possession Dec 2032.";
+  "Explore the Sobha Sienna master plan in Sarjapur, Bangalore, a premium 25-acre residential layout with approximately 1,400 homes in 2, 3 & 4 BHK apartments.";
 
 export const metadata = buildMetadata({
   title: TITLE,

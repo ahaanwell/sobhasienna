@@ -3,9 +3,9 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import BangalorePage from "./BangalorePage";
 
 const PATH = "/bangalore";
-const TITLE = "Sobha Sienna Bangalore | Top 5 Sobha Projects in Bangalore";
+const TITLE = "Sobha Sienna Bangalore | Sarjapur | Top 5 Sobha Projects in Bangalore";
 const DESCRIPTION =
-  "Discover Bangalore and Sobha Sienna, Sarjapur – 25 acres, ~1,400 units from ₹1.2 Cr*. Compare top Sobha projects: One World, Liora, Hennur, Neopolis, Madison Heights.";
+  "Explore Sobha Sienna in Sarjapur, Bangalore and compare top Sobha projects in the city: Sobha One World, Liora, Hennur, Neopolis and Madison Heights.";
 
 export const metadata = buildMetadata({
   title: TITLE,

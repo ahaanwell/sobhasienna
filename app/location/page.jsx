@@ -3,9 +3,9 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import LocationPage from "./LocationPage";
 
 const PATH = "/location";
-const TITLE = "Sobha Sienna Location | Sarjapur, Bangalore – Map & Connectivity";
+const TITLE = "Sobha Sienna Location | Sarjapur Bangalore | Map & Connectivity";
 const DESCRIPTION =
-  "Sobha Sienna location: Sarjapur, Bangalore. 25-acre project by Sobha Limited with ~1,400 2, 3 & 4 BHK apartments from ₹1.2 Cr*. Map, connectivity & nearby hubs.";
+  "Explore the Sobha Sienna location in Sarjapur, Bangalore, with connectivity to ORR, Whitefield & Electronic City. A premium 25-acre project with 2, 3 & 4 BHK apartments.";
 
 export const metadata = buildMetadata({
   title: TITLE,

@@ -25,7 +25,7 @@ export default function MobileBottomBar() {
         <Link
           href={whatsappLink}
           target="_blank"
-          rel="noopener noreferrer"
+          rel="nofollow noopener noreferrer"
           className="flex-1 flex items-center justify-center gap-1 py-2"
           aria-label="Chat on WhatsApp"
         >

@@ -135,7 +135,7 @@ export default function ProjectHighlights() {
   </p>
 
   <p>
-    Another important point is that the project is in <IntLink href="/location"><strong>Sarjapur</strong></IntLink>. Sarjapur and the surrounding areas have become major residential hubs in southeast Bangalore. These areas are close to workplaces, schools, hospitals, shopping malls, and other urban infrastructure. Sobha says <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur_Road">Sarjapur Road</ExtLink> is becoming a more popular place to live because of nearby jobs and social facilities.
+    Another important point is that the project is in <IntLink href="/location"><strong>Sarjapur</strong></IntLink>. Sarjapur and the surrounding areas have become major residential hubs in southeast Bangalore. These areas are close to workplaces, schools, hospitals, shopping malls, and other urban infrastructure. Sobha says <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur">Sarjapur Road</ExtLink> is becoming a more popular place to live because of nearby jobs and social facilities.
   </p>
 
   <p>

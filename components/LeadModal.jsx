@@ -216,6 +216,7 @@ export default function LeadModal({
                 <Link
                   href={whatsappLink}
                   target="_blank"
+                  rel="nofollow noopener noreferrer"
                   className="flex-1 flex items-center justify-center gap-2 bg-primary text-white py-2 rounded-md text-sm"
                 >
                   <FaWhatsapp />

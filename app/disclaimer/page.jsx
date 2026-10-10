@@ -2,9 +2,9 @@ import { JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import DisclaimerPage from "./DisclaimerPage";
 
 const PATH = "/disclaimer";
-const TITLE = "Disclaimer | Sobha Sienna Project Information Site";
+const TITLE = "Disclaimer | Sobha Sienna Sarjapur Bangalore";
 const DESCRIPTION =
-  "Disclaimer for www.sobhasienna.com – an information portal by a RERA-authorised agent. Prices, plans and images of Sobha Sienna, Sarjapur are indicative and may change.";
+  "Disclaimer for www.sobhasienna.com, an information portal by a RERA-authorised agent. Plans, images and project details of Sobha Sienna, Sarjapur are indicative.";
 
 export const metadata = buildMetadata({
   title: TITLE,

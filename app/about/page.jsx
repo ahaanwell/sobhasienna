@@ -2,9 +2,9 @@ import { JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import AboutPage from "./AboutPage";
 
 const PATH = "/about";
-const TITLE = "About Sobha Sienna | Sobha Limited Project in Sarjapur, Bangalore";
+const TITLE = "About Sobha Sienna | Sarjapur Bangalore | Sobha Limited Project";
 const DESCRIPTION =
-  "About Sobha Sienna by Sobha Limited – a proposed 25-acre, ~1,400-unit project in Sarjapur, Bangalore with 2, 3 & 4 BHK apartments from ₹1.2 Cr*, possession Dec 2032.";
+  "About Sobha Sienna by Sobha Limited in Sarjapur, Bangalore, a premium 25-acre residential project featuring 2, 3 & 4 BHK apartments with approximately 1,400 homes.";
 
 export const metadata = buildMetadata({
   title: TITLE,
@@ -31,7 +31,7 @@ const schema = pageSchema({
       "@type": "Organization",
       name: "Sobha Limited",
       url: "https://www.sobha.com/",
-      sameAs: ["https://en.wikipedia.org/wiki/Sobha_Limited"],
+      sameAs: ["https://en.wikipedia.org/wiki/Sobha_(company)"],
     },
   ],
 });

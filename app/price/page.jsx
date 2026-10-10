@@ -3,9 +3,9 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import PricePage from "./PricePage";
 
 const PATH = "/price";
-const TITLE = "Sobha Sienna Price List 2026 | 2, 3 & 4 BHK from ₹1.2 Cr, Sarjapur";
+const TITLE = "Sobha Sienna Price | Sarjapur Bangalore | 2, 3 & 4 BHK Price List & Cost Sheet";
 const DESCRIPTION =
-  "Sobha Sienna price starts at ₹1.2 Cr* for 2 BHK in Sarjapur, Bangalore. 3 & 4 BHK on request. 25 acres, ~1,400 units by Sobha Limited, possession Dec 2032.";
+  "Check the Sobha Sienna price in Sarjapur, Bangalore, a premium 25-acre project with approximately 1,400 homes. View the 2, 3 & 4 BHK price list, cost sheet and payment plan.";
 
 export const metadata = buildMetadata({
   title: TITLE,

@@ -51,7 +51,7 @@ function LocationPage() {
             />
 
   <p className="mt-4 text-gray-800">
-    <strong>Sarjapur</strong> is the designated location of Sobha Sienna, a proposed premium residential apartment project in Bangalore. Sarjapur lies in the <ExtLink href="https://en.wikipedia.org/wiki/Anekal_taluk">Anekal taluk</ExtLink> of <ExtLink href="https://en.wikipedia.org/wiki/Bangalore_Urban_district">Bangalore Urban district</ExtLink>, in south-east Bangalore. The project's <IntLink href="/master-plan">approximately 25-acre land area</IntLink> provides the setting for a residential development planned with multiple apartment configurations.
+    <strong>Sarjapur</strong> is the designated location of Sobha Sienna, a proposed premium residential apartment project in Bangalore. Sarjapur lies in the <ExtLink href="https://en.wikipedia.org/wiki/Anekal">Anekal taluk</ExtLink> of <ExtLink href="https://en.wikipedia.org/wiki/Bangalore_Urban_district">Bangalore Urban district</ExtLink>, in south-east Bangalore. The project's <IntLink href="/master-plan">approximately 25-acre land area</IntLink> provides the setting for a residential development planned with multiple apartment configurations.
   </p>
 
   <p className="mt-4 text-gray-800">
@@ -103,7 +103,7 @@ function LocationPage() {
   </p>
 
   <p className="mt-4 text-gray-800">
-    The area is linked to the city by <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur_Road">Sarjapur Road</ExtLink>, which connects towards the <ExtLink href="https://en.wikipedia.org/wiki/Outer_Ring_Road,_Bangalore">Outer Ring Road</ExtLink> technology corridor. Employment hubs such as <ExtLink href="https://en.wikipedia.org/wiki/Electronic_City">Electronic City</ExtLink> and <ExtLink href="https://en.wikipedia.org/wiki/Whitefield,_Bangalore">Whitefield</ExtLink> are also among the destinations residents of south-east Bangalore commonly travel to. Actual travel times should be checked using the intended route and time of day.
+    The area is linked to the city by <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur">Sarjapur Road</ExtLink>, which connects towards the <ExtLink href="https://en.wikipedia.org/wiki/Outer_Ring_Road,_Bangalore">Outer Ring Road</ExtLink> technology corridor. Employment hubs such as <ExtLink href="https://en.wikipedia.org/wiki/Electronic_City">Electronic City</ExtLink> and <ExtLink href="https://en.wikipedia.org/wiki/Whitefield,_Bangalore">Whitefield</ExtLink> are also among the destinations residents of south-east Bangalore commonly travel to. Actual travel times should be checked using the intended route and time of day.
   </p>
 
   <p className="mt-4 text-gray-800">

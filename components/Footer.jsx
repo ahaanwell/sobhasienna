@@ -51,7 +51,7 @@ export default function Footer() {
             <a
               href="https://www.facebook.com/sobhasienna"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="nofollow noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-blue-600 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
             >
               <FaFacebookF size={14} />
@@ -60,7 +60,7 @@ export default function Footer() {
             <a
               href="#"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="nofollow noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-gradient-to-r hover:from-pink-500 hover:to-yellow-500 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
             >
               <FaInstagram size={14} />
@@ -69,7 +69,7 @@ export default function Footer() {
             <a
               href="#"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="nofollow noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-blue-700 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
             >
               <FaLinkedinIn size={14} />
@@ -78,7 +78,7 @@ export default function Footer() {
             <a
               href="https://x.com/sobhasienna"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="nofollow noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-sky-500 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
             >
               <FaTwitter size={14} />
@@ -86,7 +86,7 @@ export default function Footer() {
             <a
               href="https://www.youtube.com/@sobhasienna"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="nofollow noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-red-500 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
             >
               <FaYoutube size={14} />

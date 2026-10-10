@@ -74,6 +74,8 @@ export default function Header() {
             <div className="hidden lg:flex">
               <Link
                 href={whatsappLink}
+                target="_blank"
+                rel="nofollow noopener noreferrer"
                 className="bg-primary text-white flex items-center gap-1 px-3 py-1 rounded-full font-medium hover:bg-primary-dark transition"
               >
                 <FaWhatsapp />
@@ -145,6 +147,8 @@ export default function Header() {
 
           <Link
             href={whatsappLink}
+                target="_blank"
+                rel="nofollow noopener noreferrer"
             className="flex justify-center items-center gap-2 bg-primary text-white py-2 rounded-full mt-6"
           >
             <FaWhatsapp />

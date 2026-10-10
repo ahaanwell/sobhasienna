@@ -19,7 +19,7 @@ export default function TopShoppingMalls() {
         <div className="space-y-6 text-gray-800 mt-6">
 
   <p>
-    <strong>Sobha Sienna</strong> is located in <IntLink href="/location"><strong>Sarjapur, Bangalore</strong></IntLink>, with access to a growing retail and entertainment network across <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur_Road">Sarjapur Road</ExtLink>, Dommasandra, <ExtLink href="https://en.wikipedia.org/wiki/Bellandur">Bellandur</ExtLink>, <ExtLink href="https://en.wikipedia.org/wiki/Whitefield,_Bangalore">Whitefield</ExtLink> and East Bangalore. Residents can choose from nearby shopping centres for everyday purchases as well as larger destinations for fashion, dining, movies and weekend entertainment. The following list covers shopping destinations that are accessible from the wider Sobha Sienna area.
+    <strong>Sobha Sienna</strong> is located in <IntLink href="/location"><strong>Sarjapur, Bangalore</strong></IntLink>, with access to a growing retail and entertainment network across <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur">Sarjapur Road</ExtLink>, Dommasandra, <ExtLink href="https://en.wikipedia.org/wiki/Bellandur">Bellandur</ExtLink>, <ExtLink href="https://en.wikipedia.org/wiki/Whitefield,_Bangalore">Whitefield</ExtLink> and East Bangalore. Residents can choose from nearby shopping centres for everyday purchases as well as larger destinations for fashion, dining, movies and weekend entertainment. The following list covers shopping destinations that are accessible from the wider Sobha Sienna area.
   </p>
   <img
               className="w-full"

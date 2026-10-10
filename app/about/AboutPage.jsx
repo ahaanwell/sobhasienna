@@ -82,7 +82,7 @@ function AboutPage() {
   </h2>
 
   <p className="mt-4 text-gray-800">
-    <ExtLink href="https://en.wikipedia.org/wiki/Sobha_Limited"><strong>Sobha Limited</strong></ExtLink> is a real estate developer headquartered in <strong>Bangalore</strong>. The company is known for its <strong>backward-integrated model</strong>, in which much of the design, engineering, construction and interiors work is handled in-house, giving it close control over build quality and delivery.
+    <ExtLink href="https://en.wikipedia.org/wiki/Sobha_(company)"><strong>Sobha Limited</strong></ExtLink> is a real estate developer headquartered in <strong>Bangalore</strong>. The company is known for its <strong>backward-integrated model</strong>, in which much of the design, engineering, construction and interiors work is handled in-house, giving it close control over build quality and delivery.
   </p>
 
   <p className="mt-4 text-gray-800">

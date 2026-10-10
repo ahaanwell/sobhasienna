@@ -3,9 +3,9 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import AmenitiesPage from "./AmenitiesPage";
 
 const PATH = "/amenities";
-const TITLE = "Sobha Sienna Amenities | Clubhouse, Fitness & Recreation, Sarjapur";
+const TITLE = "Sobha Sienna Amenities | Sarjapur Bangalore | Clubhouse & Lifestyle Facilities";
 const DESCRIPTION =
-  "Sobha Sienna amenities in Sarjapur, Bangalore: fitness, sports, clubhouse, landscaped spaces & security for a 25-acre, ~1,400-unit project by Sobha Limited.";
+  "Explore Sobha Sienna amenities in Sarjapur, Bangalore, a premium 25-acre residential project with clubhouse, fitness, sports and landscaped spaces for approximately 1,400 homes.";
 
 export const metadata = buildMetadata({
   title: TITLE,

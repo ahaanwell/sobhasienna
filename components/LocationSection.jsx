@@ -191,7 +191,7 @@ export default function LocationSection() {
   </h3>
 
   <p>
-    One of the biggest advantages of the Sarjapur location is the road connectivity. <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur_Road"><strong>Sarjapur Main Road</strong></ExtLink> is the area's main artery, linking residential neighborhoods to the Outer Ring Road and other major corridors.
+    One of the biggest advantages of the Sarjapur location is the road connectivity. <ExtLink href="https://en.wikipedia.org/wiki/Sarjapur"><strong>Sarjapur Main Road</strong></ExtLink> is the area's main artery, linking residential neighborhoods to the Outer Ring Road and other major corridors.
   </p>
 
   <p>
@@ -721,7 +721,7 @@ export default function LocationSection() {
   <h3 className="text-xl font-bold">10. Developer Brand Established</h3>
 
   <p>
-    The <ExtLink href="https://en.wikipedia.org/wiki/Sobha_Limited"><strong>Sobha</strong></ExtLink> tag is an important consideration for buyers looking at a premium residential project in Sobha Sienna.
+    The <ExtLink href="https://en.wikipedia.org/wiki/Sobha_(company)"><strong>Sobha</strong></ExtLink> tag is an important consideration for buyers looking at a premium residential project in Sobha Sienna.
   </p>
 
   <p>

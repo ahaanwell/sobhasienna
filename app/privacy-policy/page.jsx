@@ -2,7 +2,7 @@ import { JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import PrivacyPolicyPage from "./PrivacyPolicyPage";
 
 const PATH = "/privacy-policy";
-const TITLE = "Privacy Policy | Sobha Sienna Project Information Site";
+const TITLE = "Privacy Policy | Sobha Sienna Sarjapur Bangalore";
 const DESCRIPTION =
   "Read how www.sobhasienna.com collects, uses and protects your name, phone number and email when you enquire about Sobha Sienna, Sarjapur Bangalore.";
 
